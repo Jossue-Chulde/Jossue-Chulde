@@ -11,8 +11,6 @@
 Soy Estudiante de la carrera de  **Tecnología en Desarrollo de Software** en la Escuela Politécnica Nacional,  ubicada en Quito - Ecuador.
 En estos momentos me encuentro desarrollando y fortaleciendo mis habilidades en el **Desarrollo Frontend**
 
-> .[!NOTE].
-> 
 > **Desarrollo Web Frontend**
 > -	HTML
 > -	CSS
