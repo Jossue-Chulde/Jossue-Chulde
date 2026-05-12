@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Muy buenas a todos, mi nombre es Jossue Chulde 👋
+# Muy buenas a todos, mi nombre es Jossue Chulde 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossue-chulde-383735409/)
 &nbsp;&nbsp;
