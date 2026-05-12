@@ -6,6 +6,7 @@
 ---
 ##  Sobre mí
 Soy Estudiante de la carrera de  **Tecnología en Desarrollo de Software** en la Escuela Politécnica Nacional,  ubicada en Quito - Ecuador.
+
 En estos momentos me encuentro desarrollando y fortaleciendo mis habilidades en el **Desarrollo Frontend** y en **Base de Datos**
 
 # 💻 Desarrollo Frontend
@@ -25,10 +26,16 @@ En estos momentos me encuentro desarrollando y fortaleciendo mis habilidades en 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # ⚒️ Herramientas
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ApiDog](https://img.shields.io/badge/ApiDog-4A90E2?style=for-the-badge&logo=api&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 
 ---
