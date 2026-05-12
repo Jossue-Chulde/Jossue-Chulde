@@ -12,6 +12,7 @@ Soy Estudiante de la carrera de  **Tecnología en Desarrollo de Software** en la
 En estos momentos me encuentro desarrollando y fortaleciendo mis habilidades en el **Desarrollo Frontend**
 
 > .[!TIP].
+> 
 > **Desarrollo Web Frontend**
 > -	HTML
 > -	CSS
